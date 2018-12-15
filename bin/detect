@@ -1,0 +1,4 @@
+#!/bin/sh
+
+echo "Next.js Build"
+exit 0
