@@ -1,3 +1,11 @@
 #!/bin/sh
 
+BUILD_DIR=$1
+CACHE_DIR=$2
+ENV_DIR=$3
+
+echo "build dir is $BUILD_DIR"
+echo "cache dir is $CACHE_DIR"
+echo "env dir is $ENV_DIR"
+
 next build
